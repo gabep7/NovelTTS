@@ -37,15 +37,3 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-
-- Thanks to the open-source community for providing the tools and libraries used in this project.
-- Special thanks to the developers of the text-to-speech technology used in NovelTTS.
-
-## Contact
-
-If you have any questions or feedback, feel free to reach out to me on [GitHub](https://github.com/gabep7).
-
----
-
-Happy listening!
